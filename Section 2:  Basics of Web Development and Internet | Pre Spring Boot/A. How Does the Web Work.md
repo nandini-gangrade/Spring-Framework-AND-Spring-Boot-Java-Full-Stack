@@ -311,11 +311,11 @@ Browser shows webpage
 ---
 
 **Thank you**
-*(Video 1 ends)*
 
 ---
 
 ### Next step
 
 Say:
-👉 **“Video 2: What is Client & Server”**
+👉 [**“What is Client & Server”**
+](https://github.com/nandini-gangrade/Spring-Framework-AND-Spring-Boot-Java-Full-Stack/blob/main/Section%202%3A%20%20Basics%20of%20Web%20Development%20and%20Internet%20%7C%20Pre%20Spring%20Boot/B.%20What%20is%20Client%20%26%20Server.md)
