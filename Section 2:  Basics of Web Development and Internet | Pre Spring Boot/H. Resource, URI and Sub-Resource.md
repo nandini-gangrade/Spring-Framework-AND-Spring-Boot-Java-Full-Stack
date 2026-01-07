@@ -370,6 +370,7 @@ Client
 
 🔥 **You just completed one of the most important foundations of the course.**
 
-Next section = **Spring Framework - The Basics | Before Spring Boot**
+Next section = [**Spring Framework - The Basics | Before Spring Boot**
+](https://github.com/nandini-gangrade/Spring-Framework-AND-Spring-Boot-Java-Full-Stack/tree/main/Section%203:%20Spring%20Framework%20-%20The%20Basics%20%7C%20Before%20Spring%20Boot)
 When ready, say:
-👉 **“Spring Framework - The Basics | Before Spring Boot”**
+👉 [**“Spring Framework - The Basics | Before Spring Boot”**](https://github.com/nandini-gangrade/Spring-Framework-AND-Spring-Boot-Java-Full-Stack/tree/main/Section%203:%20Spring%20Framework%20-%20The%20Basics%20%7C%20Before%20Spring%20Boot)
